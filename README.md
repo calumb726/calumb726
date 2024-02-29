@@ -3,6 +3,6 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Geomapping threat actors trying to log in to my Virtual Machine</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GeoMapping Attackers](https://github.com/calumb726/GeoMappingAttackers)
 
 
